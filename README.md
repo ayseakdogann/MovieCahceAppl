@@ -10,7 +10,7 @@ Veritabanı (Disk) Erişim Süresi: ~25.000 µs
 
 Verimlilik Artışı: Önbellek katmanı sayesinde veri erişim hızı 5 kat artırılarak %80 performans kazanımı sağlanmıştır.
 Kurulum ve Çalıştırma
-Projeyi klonlayın: git clone https://github.com/kullaniciadi/StreamCache.git
+Projeyi klonlayın: git clone https://github.com/ayseakdogann/MovieCahceAppl.git
 
 PostgreSQL veritabanınızı oluşturun.
 
