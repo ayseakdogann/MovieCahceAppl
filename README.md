@@ -17,3 +17,9 @@ PostgreSQL veritabanınızı oluşturun.
 Güvenlik: Veritabanı şifrenizi application.properties içine yazmak yerine, IDE'nizde veya sisteminizde DB_PASSWORD isimli bir Environment Variable oluşturarak tanımlayın.
 
 Projeyi çalıştırın ve localhost:9090 üzerinden Admin Paneli'ni takip edin.
+
+
+Gazi Üniversitesi 3. Sınıf Güz Dönemi 
+Algoritmalar Dersi Projesi
+Ayşe Akdoğan 23181616011
+Melih Ali Çağman 23181616766
