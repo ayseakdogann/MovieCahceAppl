@@ -20,6 +20,6 @@ Projeyi çalıştırın ve localhost:9090 üzerinden Admin Paneli'ni takip edin.
 
 
 Gazi Üniversitesi 3. Sınıf Güz Dönemi 
-Algoritmalar Dersi Projesi
+Algoritmalar Ders Projesi
 Ayşe Akdoğan 23181616011
 Melih Ali Çağman 23181616766
